@@ -1,0 +1,12 @@
+New repository - 
+git init
+ 
+git status 
+
+git add filename (for single file upload)
+
+git add .    or  git add --all
+
+git commit -m " " (for comment)
+
+git push -u origin master  
