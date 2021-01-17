@@ -10,3 +10,6 @@ git add .    or  git add --all
 git commit -m " " (for comment)
 
 git push -u origin master  
+
+
+git remote add origin Link (https://github.com/saifur-shamim/Programming.git)
